@@ -1,13 +1,4 @@
-"""
-File:    silicon_crisis.py
-Author:  Manisha Vijay
-Date:    5/14/21
-Section: 11
-E-mail:  mvijay1@umbc.edu
-Description:
-    silicon crisis file
 
-"""
 QUIT_STRING = "quit"
 import json
 
